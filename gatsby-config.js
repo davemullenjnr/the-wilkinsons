@@ -3,6 +3,7 @@ module.exports = {
     title: `Mr and Mrs Wilkinson`,
     description: `Photographs from the wedding of Neil and Amy Wilkinson`,
     author: `@davemullenjnr`,
+    image: `src/assets/images/the-wilkinsons.jpg`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
