@@ -3,7 +3,7 @@ module.exports = {
     title: `Mr and Mrs Wilkinson`,
     description: `Photographs from the wedding of Neil and Amy Wilkinson`,
     author: `@davemullenjnr`,
-    image: `https://thewilkinsons.netlify.com/images/the-wilkinsons.jpg`,
+    image: `https://thewilkinsons.netlify.com/images/the-wilkinsons-og.jpg`,
     imageWidth: `1920`,
     imageHeight: `960`,
     url: `https://thewilkinsons.netlify.com/`
