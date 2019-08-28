@@ -4,6 +4,9 @@ module.exports = {
     description: `Photographs from the wedding of Neil and Amy Wilkinson`,
     author: `@davemullenjnr`,
     image: `src/assets/images/the-wilkinsons.jpg`,
+    imageWidth: `1920`,
+    imageHeight: `960`,
+    url: `https://thewilkinsons.netlify.com/`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
