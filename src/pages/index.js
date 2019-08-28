@@ -8,7 +8,7 @@ import Images from "../components/images";
 
 const IndexPage = () => (
   <>
-    <SEO title="Wedding Photographs" />
+    <SEO title="Introducing Mr & Mrs Wilkinson" />
     <Hero />
     <About />
     <Images />
